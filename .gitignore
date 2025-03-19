@@ -1,0 +1,28 @@
+# Dépendances
+node_modules/
+package-lock.json
+yarn.lock
+
+# Fichiers d'environnement
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Cache
+.cache/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers générés automatiquement
+/dist
+/build
+*.tmp
+*.swp
+
+# Fichier de données
+data.json
